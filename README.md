@@ -11,6 +11,8 @@ This app is built for Android phones with Android 6.0 or higher version.
 
 ## What I learned from this project
 
-
+1.  I learned how to set up Android Studio and how to run an Android Virtual Machine to debug.
+2.  We can use a layout to make widgets align horizontally or vertically.
+3.  We need to set all 4 constrains to ensure layouts not going out of the screen.
 
 
